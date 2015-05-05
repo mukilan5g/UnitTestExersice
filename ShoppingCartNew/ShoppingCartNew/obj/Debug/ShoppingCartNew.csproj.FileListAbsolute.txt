@@ -1,0 +1,5 @@
+C:\Users\mukilan\Documents\Visual Studio 2012\Projects\ShoppingCartNew\ShoppingCartNew\bin\Debug\ShoppingCartNew.dll
+C:\Users\mukilan\Documents\Visual Studio 2012\Projects\ShoppingCartNew\ShoppingCartNew\bin\Debug\ShoppingCartNew.pdb
+C:\Users\mukilan\Documents\Visual Studio 2012\Projects\ShoppingCartNew\ShoppingCartNew\obj\Debug\ShoppingCartNew.dll
+C:\Users\mukilan\Documents\Visual Studio 2012\Projects\ShoppingCartNew\ShoppingCartNew\obj\Debug\ShoppingCartNew.pdb
+C:\Users\mukilan\Documents\Visual Studio 2012\Projects\ShoppingCartNew\ShoppingCartNew\obj\Debug\ShoppingCartNew.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VCR", "VCR\VCR.csproj", "{46C7E5C5-9AE2-44A7-9C58-1A7ED5C1C1F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VcrTest", "VcrTest\VcrTest.csproj", "{93E83863-289D-4760-B692-E30C195D073A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C7E5C5-9AE2-44A7-9C58-1A7ED5C1C1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C7E5C5-9AE2-44A7-9C58-1A7ED5C1C1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C7E5C5-9AE2-44A7-9C58-1A7ED5C1C1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C7E5C5-9AE2-44A7-9C58-1A7ED5C1C1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E83863-289D-4760-B692-E30C195D073A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E83863-289D-4760-B692-E30C195D073A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E83863-289D-4760-B692-E30C195D073A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E83863-289D-4760-B692-E30C195D073A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

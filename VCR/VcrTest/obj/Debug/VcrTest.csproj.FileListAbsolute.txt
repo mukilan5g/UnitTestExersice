@@ -1,0 +1,7 @@
+c:\Users\mukilan\documents\visual studio 2012\Projects\VCR\VcrTest\obj\Debug\VcrTest.csprojResolveAssemblyReference.cache
+c:\Users\mukilan\documents\visual studio 2012\Projects\VCR\VcrTest\bin\Debug\VcrTest.dll
+c:\Users\mukilan\documents\visual studio 2012\Projects\VCR\VcrTest\bin\Debug\VcrTest.pdb
+c:\Users\mukilan\documents\visual studio 2012\Projects\VCR\VcrTest\bin\Debug\VCR.dll
+c:\Users\mukilan\documents\visual studio 2012\Projects\VCR\VcrTest\bin\Debug\VCR.pdb
+c:\Users\mukilan\documents\visual studio 2012\Projects\VCR\VcrTest\obj\Debug\VcrTest.dll
+c:\Users\mukilan\documents\visual studio 2012\Projects\VCR\VcrTest\obj\Debug\VcrTest.pdb

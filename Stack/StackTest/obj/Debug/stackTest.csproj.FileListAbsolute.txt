@@ -1,0 +1,7 @@
+c:\Users\mukilan\documents\visual studio 2012\Projects\stack\stackTest\bin\Debug\stackTest.dll
+c:\Users\mukilan\documents\visual studio 2012\Projects\stack\stackTest\bin\Debug\stackTest.pdb
+c:\Users\mukilan\documents\visual studio 2012\Projects\stack\stackTest\bin\Debug\stack.dll
+c:\Users\mukilan\documents\visual studio 2012\Projects\stack\stackTest\bin\Debug\stack.pdb
+c:\Users\mukilan\documents\visual studio 2012\Projects\stack\stackTest\obj\Debug\stackTest.csprojResolveAssemblyReference.cache
+c:\Users\mukilan\documents\visual studio 2012\Projects\stack\stackTest\obj\Debug\stackTest.dll
+c:\Users\mukilan\documents\visual studio 2012\Projects\stack\stackTest\obj\Debug\stackTest.pdb

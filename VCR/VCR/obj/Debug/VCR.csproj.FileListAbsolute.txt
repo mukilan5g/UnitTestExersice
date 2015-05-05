@@ -1,0 +1,4 @@
+c:\users\mukilan\documents\visual studio 2012\Projects\VCR\VCR\bin\Debug\VCR.dll
+c:\users\mukilan\documents\visual studio 2012\Projects\VCR\VCR\bin\Debug\VCR.pdb
+c:\users\mukilan\documents\visual studio 2012\Projects\VCR\VCR\obj\Debug\VCR.dll
+c:\users\mukilan\documents\visual studio 2012\Projects\VCR\VCR\obj\Debug\VCR.pdb
